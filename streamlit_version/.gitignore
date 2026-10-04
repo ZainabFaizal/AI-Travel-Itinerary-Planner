@@ -1,0 +1,17 @@
+# Sensitive data — never commit
+data/
+docx/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment / secrets
+.env
+*.env
+secrets.txt
+
+# IDE
+.vscode/
+.idea/
